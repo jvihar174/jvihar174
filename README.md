@@ -1,4 +1,4 @@
--  Hi, I’m VihR Jain (@jvihar174)
+-  Hi, I’m Vihar Jain (@jvihar174)
 -  I’m interested in Robotics and hardware coding
 -  I'm currently doing my BS in Computer System Engineering from ASU (#1 in Innovation smh)
 <!---
